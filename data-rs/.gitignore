@@ -1,0 +1,7 @@
+target/
+.DS_Store
+._.DS_Store
+*.nsys-rep
+.*.nsys-rep
+._.
+trace.json
